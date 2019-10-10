@@ -4,4 +4,5 @@ My name is Matt, and I am new to programming and coding. I am a United States Ma
 
 # Certifications I Hold:
 -Security+ CE
+
 -Certified Ethical Hacker (CEH)
