@@ -1,3 +1,1 @@
-# king
-
 # Hello World!
